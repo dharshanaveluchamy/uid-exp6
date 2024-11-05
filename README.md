@@ -1,3 +1,9 @@
+# Output
+![image](https://github.com/user-attachments/assets/a68efeed-95f6-4dc7-b949-4db067564fb3)
+
+# Description
+Develop a user-friendly form in React that enables users to add new items to a list. The form should include input fields for the item's name, description, and quantity. Upon submission, the data is captured and displayed in a list below the form. This project illustrates how to manage form state, handle input events, and dynamically render a list of items based on user input, making it ideal for beginners looking to enhance their React skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
